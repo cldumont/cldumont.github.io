@@ -2,7 +2,7 @@
 
 [Projects](https://cldumont.github.io/projects.html)
 
-(https://cldumont.github.io/cldphoto.png)
+![Image of me](https://cldumont.github.io/cldphoto.png)
 
 You use the [editor on GitHub](https://github.com/cldumont/cldumont.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
