@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Projects](https://github.com/cldumont/cldumont.github.io/main/projects.md)
+[Projects](https://cldumont.github.io/projects.md)
 
 You use the [editor on GitHub](https://github.com/cldumont/cldumont.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
